@@ -4,7 +4,7 @@
 - ⛵️ I embarked on a 💻 Frontend dev journey, while working as a UI/UX/Graphic designer.
 - 🥸 Best advices for learning to code I have received so far are:
 - - ⛑️ Do not beat yourself up.
-  - 🤪 Embrace your stupidity.
+  - 🤪 Be brave enough to suck at something new.
   - 📒 Keep taking notes even if you have no clue at all what you are writing.
 
 <!---
