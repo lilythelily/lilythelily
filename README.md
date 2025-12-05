@@ -8,7 +8,8 @@
   - Keep taking notes even if you have no clue at all what you are writing.
 
 Code Repository ➡️  https://github.com/lilythelily?tab=repositories<br>
-Portfolio ➡️  https://kaoriadesign.vercel.app/index.html
+Portfolio ➡️  https://kaoriadesign.vercel.app/index.html<br>
+Web Template Bundle (Figma Design - Code files) ➡️  https://payhip.com/KaoriADesign
 <!---
 lilythelily/lilythelily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
